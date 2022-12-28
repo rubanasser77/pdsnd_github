@@ -5,7 +5,7 @@
 
 ### Project Title
 Git Commands Documentation
-this is ptoject number 3 
+this is thired project 
 
 
 ### Description
