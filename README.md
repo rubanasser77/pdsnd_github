@@ -4,15 +4,26 @@
 22/12/2022 
 
 ### Project Title
+<<<<<<< HEAD
 Git Commands Documentation
 this is thired project 
 
+||||||| merged common ancestors
+Post your Work on GitHub
+=======
+project 3 viersion control 
+>>>>>>> origin
 
 ### Description
 this is  project number 3  in Udacity's Programming for Data Science nano-degree. 
 and it's also a practice for using Git and Github.
+<<<<<<< HEAD
 also we use bikeshare.py amd data file  
 
+||||||| merged common ancestors
+=======
+also we use bikeshare.py amd data file 
+>>>>>>> origin
 
 ### Files used
 
